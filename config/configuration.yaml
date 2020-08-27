@@ -2,10 +2,18 @@
 default_config:
 
 logger:
-  default: debug
+  default: info
 
-# sensor:
-#   platform: example_sensor
+hello_world:
+
+sensor:
+  platform: example_sensor
+
+light:
+  - platform: example_light
+    host: localhost
+    username: sss
+    password: 123456
 
 # Text to speech
 # tts:

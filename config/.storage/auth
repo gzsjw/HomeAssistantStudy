@@ -7,8 +7,8 @@
                 "data": {
                     "username": "dev"
                 },
-                "id": "5ecfb6bb26f1492ba5d58bf0c43efe68",
-                "user_id": "01ea0cf766ff4184b98c5aa0ad73b437"
+                "id": "a6f3f7180fac44a488d3c7cc1939f2a0",
+                "user_id": "5d96c280f52d449c87c893fe923beaf6"
             }
         ],
         "groups": [
@@ -31,14 +31,14 @@
                 "client_icon": null,
                 "client_id": "http://localhost:8123/",
                 "client_name": null,
-                "created_at": "2020-08-13T10:26:14.055747+00:00",
-                "id": "8d7fa07de0174b8287164c6562a9519a",
-                "jwt_key": "fc5dd26be9a5c85c0e682c3f50d850bf83923d0e54d0000b3cc0fe9a6a70d5f2a309c1dceec03ea9b55aeae96dfcaa69af7f195c4c44dd3738546b55c6318c2a",
-                "last_used_at": "2020-08-13T23:16:47.460020+00:00",
+                "created_at": "2020-08-25T07:23:51.653487+00:00",
+                "id": "3ba1913df5104441b769d29dedb2e141",
+                "jwt_key": "7dce508ff9bf407423470f7f14fb90cfe5d6218c6d5b275bb97e83e4a76a4a6206da9efc8c915ab5e8333715e364c596b6733d3fcc7b7448f0114d1f22184f7a",
+                "last_used_at": "2020-08-27T08:16:05.247399+00:00",
                 "last_used_ip": "172.17.0.1",
-                "token": "80812e59af6d0bb74cc9e3264b70f2522ead39946ecc7a3344e761feb22ff22dcbdf2d1269091d56c07b7071af4effd6d6e72793661b4fc9b04fef9ed5298d3a",
+                "token": "dc24e865c37f6bc8cdb037f5b0443a500865fe4cb88289c66ccbcbc908ba84fd909d91e55b6fb68b375d4732ef54bdf8295940df4df420d99027ca14e8017f46",
                 "token_type": "normal",
-                "user_id": "01ea0cf766ff4184b98c5aa0ad73b437"
+                "user_id": "5d96c280f52d449c87c893fe923beaf6"
             }
         ],
         "users": [
@@ -46,7 +46,7 @@
                 "group_ids": [
                     "system-admin"
                 ],
-                "id": "01ea0cf766ff4184b98c5aa0ad73b437",
+                "id": "5d96c280f52d449c87c893fe923beaf6",
                 "is_active": true,
                 "is_owner": true,
                 "name": "dev",

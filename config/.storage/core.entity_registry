@@ -2,7 +2,7 @@
     "data": {
         "entities": [
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": null,
                 "device_id": null,
@@ -18,7 +18,7 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
+                "capabilities": {},
                 "config_entry_id": null,
                 "device_class": null,
                 "device_id": null,
@@ -34,19 +34,35 @@
                 "unit_of_measurement": null
             },
             {
-                "capabilities": null,
-                "config_entry_id": "fedac974f0604320bae4364a7cf0a0e3",
+                "capabilities": {},
+                "config_entry_id": "a58e7a152ff047fa8f22686169a21e2b",
                 "device_class": null,
                 "device_id": null,
                 "disabled_by": null,
-                "entity_id": "weather.wo_de_jia",
+                "entity_id": "weather.home_h1",
+                "icon": null,
+                "name": "Home-h1",
+                "original_icon": null,
+                "original_name": "Home",
+                "platform": "met",
+                "supported_features": 0,
+                "unique_id": "23.115141024614235-113.32577705383302",
+                "unit_of_measurement": null
+            },
+            {
+                "capabilities": null,
+                "config_entry_id": "f2a0d7dced11485eabda792ebbecc789",
+                "device_class": null,
+                "device_id": null,
+                "disabled_by": null,
+                "entity_id": "weather.sd",
                 "icon": null,
                 "name": null,
                 "original_icon": null,
-                "original_name": "\u6211\u7684\u5bb6",
+                "original_name": "SD",
                 "platform": "met",
                 "supported_features": 0,
-                "unique_id": "home",
+                "unique_id": "23.136845-113.278382",
                 "unit_of_measurement": null
             }
         ]

@@ -4,16 +4,38 @@
             {
                 "connection_class": "cloud_poll",
                 "data": {
-                    "track_home": true
+                    "elevation": 88,
+                    "latitude": 23.115141024614235,
+                    "longitude": 113.32577705383302,
+                    "name": "Home"
                 },
                 "domain": "met",
-                "entry_id": "fedac974f0604320bae4364a7cf0a0e3",
+                "entry_id": "a58e7a152ff047fa8f22686169a21e2b",
                 "options": {},
-                "source": "onboarding",
+                "source": "user",
                 "system_options": {
                     "disable_new_entities": false
                 },
                 "title": "Home",
+                "unique_id": null,
+                "version": 1
+            },
+            {
+                "connection_class": "cloud_poll",
+                "data": {
+                    "elevation": 1,
+                    "latitude": 23.136845,
+                    "longitude": 113.278382,
+                    "name": "SD"
+                },
+                "domain": "met",
+                "entry_id": "f2a0d7dced11485eabda792ebbecc789",
+                "options": {},
+                "source": "user",
+                "system_options": {
+                    "disable_new_entities": false
+                },
+                "title": "SD11",
                 "unique_id": null,
                 "version": 1
             }
