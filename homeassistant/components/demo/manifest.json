@@ -2,6 +2,7 @@
   "domain": "demo",
   "name": "Demo",
   "documentation": "https://www.home-assistant.io/integrations/demo",
+  "config_flow": true,
   "dependencies": ["conversation", "zone", "group", "configurator"],
   "codeowners": ["@home-assistant/core"],
   "quality_scale": "internal"
